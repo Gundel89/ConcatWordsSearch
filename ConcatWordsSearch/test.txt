@@ -1,0 +1,8 @@
+cat
+dog
+rat
+cats
+dogcutsdog
+catsdogcats
+ratcatdogcat
+hippopotamuses
